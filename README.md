@@ -1,0 +1,1 @@
+Dockerhub+Github构建kubernetes私有镜像仓库
